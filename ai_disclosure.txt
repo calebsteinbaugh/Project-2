@@ -1,0 +1,23 @@
+AI usage for project 2: 
+
+- Consultation with LLM's on decision making decisions was used throughout the design process. However, AI was not responsible for generating designs, but rather for determining the route the makes the most sense and to get a scope for the design choice I was making. For example, a prompt that I used in the design process for project 2:
+
+Prompt: 
+"I like the check box since it allows multiple calls of jobs, but I don't know where to put the out put if they were to select all of them" 
+
+Response: 
+"For output, use one large multi-line output box on the second window, not separate labels."
+
+
+Statements like this were the most common usage of LLM's, often using it as a consultant when I had to make an important design choice. Since I choose to work alone, AI served as a partner to help stir my project so I didn't go off into the weeds with bad methods or design. 
+
+
+- The secondary use case is design critique, after writing methods, or logic in the logic class prompts like: 
+
+Prompt: 
+"Here is my RNA sequence class, would it make more sense to keep the codon table as a class variable, or should I import a codon table file"
+
+Response: 
+"Keep it in the class, but clearly mark it" 
+
+-Finally AI was utilized in docstring and type hinting. 
